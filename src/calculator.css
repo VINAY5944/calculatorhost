@@ -1,0 +1,32 @@
+.main{
+  margin-left: 35%;
+    background-color: coral;
+  backdrop-filter: saturate(180%) blur(10px);
+  width: 250px;
+margin-top: 10%;
+}
+.btn{
+  background-color: grey;
+  margin: 5px;
+  border-radius: 5px;
+  border: none;
+  color: beige;
+  background-color: #503cd1;
+  width: 50px;
+  height: 50px;
+  box-shadow: 1px 1px rgb(77, 2, 112);
+}
+.btn:hover{
+  background-color:blueviolet;
+}
+.disp{
+  background-color: mediumslateblue;
+  border-radius: 5px;
+  height: 70px;
+  width:245px;
+  border: none;
+  color: bisque;
+  font-weight: 400;
+  font-size: 2rem;
+  
+}
